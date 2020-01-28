@@ -1,2 +1,2 @@
 # Bloops
- Simple experimentations with AI 
+ Simple experimentations with AI using Unity.
