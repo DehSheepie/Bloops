@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bloop
   layers:
   - Default
   - TransparentFX
@@ -46,4 +47,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2308938901
+    locked: 0
+  - name: 
+    uniqueID: 2032654513
     locked: 0
